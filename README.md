@@ -15,4 +15,3 @@ The R script entitled "MangMarshFishFig5.R" can be used to replicate Fig. 5 from
 # MangMarshFish Fig. S1
 
 The R script entitled "MangMarshFishFigS1.R" can be used to replicate Fig. 1 from the Supplementary Material file, which displays a table of the demographic characteristics of the survey respondents.
-![image](https://github.com/shswinea/MangMarshFish/assets/81324547/b5611de6-6fdf-4162-8ec4-70ae7e5d151b)
